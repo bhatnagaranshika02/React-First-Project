@@ -1,5 +1,5 @@
 import React from 'react';
-import React-DOM from 'react-dom';
+import ReactDOM from 'react-dom';
 
 cont var= "Hello world";
-ReactDOM.render(var,getElementById('eg'));
+ReactDOM.render(var , document.getElementById('eg'));
